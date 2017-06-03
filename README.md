@@ -1,6 +1,4 @@
-# Simple Socket Chat 
-
-URL Shortening Service
+#URL Shortening Service
 
 ## Getting Started
 
